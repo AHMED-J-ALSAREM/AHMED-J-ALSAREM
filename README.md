@@ -25,7 +25,7 @@
 - إتقان العمل مع فرق متعددة في بيئات تطوير مرنة 🤝
 - **العمل في شركة Bookinzy** 🏢
 
-![Bookinzy Logo](https://bookinzy.com/wp-content/uploads/2021/07/logo.png)
+<img src="https://bookinzy.com/wp-content/uploads/2021/07/logo.png" width="200" />
 
 ## تواصل معي 📬
 
