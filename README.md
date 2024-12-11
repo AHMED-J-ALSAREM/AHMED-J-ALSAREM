@@ -58,9 +58,9 @@ I have worked on a variety of projects, including:
 
 ## تواصل معي 📬 / Contact Me 📬
 
-- البريد الإلكتروني: [ahmed@alsaremtech.com](mailto:info@alsaremtech.com) 📧  Email: 
-- تويتر: [@ahmed_alsarem](https://twitter.com/ahmed_alsarem) 🐦 Twitter:  
-- لينكدإن: [Ahmed Alsarem](https://www.linkedin.com/in/ahmed-alsarem)  LinkedIn"
-- الملف الشخصي : [portfolio.alsaremtech.com](https://portfolio.alsaremtech.com/) 🌍 / Portfolio: [portfolio.alsaremtech.com](https://portfolio.alsaremtech.com/) 🌍
+- البريد الإلكتروني: [ahmed@alsaremtech.com](mailto:info@alsaremtech.com) 📧 
+- تويتر: [@ahmed_alsarem](https://twitter.com/ahmed_alsarem) 🐦 
+- لينكدإن: [Ahmed Alsarem](https://www.linkedin.com/in/ahmed-alsarem) 💼 
+- الملف الشخصي : [portfolio.alsaremtech.com](https://portfolio.alsaremtech.com/) 🌍
 
 تابعني لمعرفة المزيد عن أحدث المشاريع والأدوات التي أستخدمها في عملي! 🔧💡 / Follow me to learn more about the latest projects and tools I use in my work! 🔧💡
