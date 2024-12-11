@@ -25,9 +25,11 @@
 - إتقان العمل مع فرق متعددة في بيئات تطوير مرنة 🤝
 - **العمل في شركة Bookinzy** 🏢
 
+![Bookinzy Logo](https://bookinzy.com/wp-content/uploads/2021/07/logo.png)
+
 ## تواصل معي 📬
 
-- البريد الإلكتروني: [ info@alsaremtech.com ](mailto:info@alsaremtech.com) 📧
+- البريد الإلكتروني: [ahmed@alsaremtech.com](mailto:info@alsaremtech.com) 📧
 - تويتر: [@ahmed_alsarem](https://twitter.com/ahmed_alsarem) 🐦
 - لينكدإن: [Ahmed Alsarem](https://www.linkedin.com/in/ahmed-alsarem) 💼
 
