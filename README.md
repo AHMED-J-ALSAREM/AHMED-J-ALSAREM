@@ -26,7 +26,7 @@
 
 ## تواصل معي
 
-- البريد الإلكتروني: [ahmed@alsaremtech.com](mailto:ahmed@alsaremtech.com)
+- البريد الإلكتروني: [ahmed@alsaremtech.com](mailto:info@alsaremtech.com)
 - تويتر: [@ahmed_alsarem](https://twitter.com/ahmed_alsarem)
 - لينكدإن: [Ahmed Alsarem](https://www.linkedin.com/in/ahmed-alsarem)
 
