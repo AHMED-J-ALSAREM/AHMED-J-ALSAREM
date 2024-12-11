@@ -25,13 +25,42 @@
 - إتقان العمل مع فرق متعددة في بيئات تطوير مرنة 🤝
 - **العمل في شركة Bookinzy** <img src="https://bookinzy.com/wp-content/uploads/2021/07/logo.png" width="50" />🏢
 
+---
 
+### English
 
-## تواصل معي 📬
+Hello! I am Ahmed Alsarem, a web developer specializing in building innovative and practical web applications and websites. I have extensive experience in developing solutions using a variety of modern technologies, including:
 
-- البريد الإلكتروني: [ahmed@alsaremtech.com](mailto:info@alsaremtech.com) 📧
-- تويتر: [@ahmed_alsarem](https://twitter.com/ahmed_alsarem) 🐦
-- لينكدإن: [Ahmed Alsarem](https://www.linkedin.com/in/ahmed-alsarem) 💼
-- الملف الشخصي : [portfolio.alsaremtech.com](https://portfolio.alsaremtech.com/) 🌍
+- **PHP** and **Laravel** for backend development ⚙️
+- **JavaScript** with **React.js** and **Next.js** for frontend development 🌐
+- **HTML** and **CSS** with **Tailwind CSS** for designing stunning user interfaces 🎨
+- **Dart** and **Flutter** for mobile app development 📱
+- **MySQL** and **PostgreSQL** for database management 🗄️
+- **Git** and **GitHub** for code and project management 📂
 
-تابعني لمعرفة المزيد عن أحدث المشاريع والأدوات التي أستخدمها في عملي! 🔧💡
+## My Projects 🛠️
+
+I have worked on a variety of projects, including:
+
+- E-commerce platforms 🛒
+- SaaS (Software as a Service) solutions ☁️
+- Mobile applications 📲
+- Interactive websites with modern technologies 🌟
+
+## Experience 🌱
+
+- Over 3 years of web development experience 👨‍💻
+- Passionate about providing innovative solutions and enhancing user experience 🎯
+- Skilled in working with cross-functional teams in agile development environments 🤝
+- **Working at Bookinzy** <img src="https://bookinzy.com/wp-content/uploads/2021/07/logo.png" width="50" />🏢
+
+---
+
+## تواصل معي 📬 / Contact Me 📬
+
+- البريد الإلكتروني: [ahmed@alsaremtech.com](mailto:info@alsaremtech.com) 📧 / Email: [ahmed@alsaremtech.com](mailto:info@alsaremtech.com) 📧
+- تويتر: [@ahmed_alsarem](https://twitter.com/ahmed_alsarem) 🐦 / Twitter: [@ahmed_alsarem](https://twitter.com/ahmed_alsarem) 🐦
+- لينكدإن: [Ahmed Alsarem](https://www.linkedin.com/in/ahmed-alsarem) 💼 / LinkedIn: [Ahmed Alsarem](https://www.linkedin.com/in/ahmed-alsarem) 💼
+- الملف الشخصي : [portfolio.alsaremtech.com](https://portfolio.alsaremtech.com/) 🌍 / Portfolio: [portfolio.alsaremtech.com](https://portfolio.alsaremtech.com/) 🌍
+
+تابعني لمعرفة المزيد عن أحدث المشاريع والأدوات التي أستخدمها في عملي! 🔧💡 / Follow me to learn more about the latest projects and tools I use in my work! 🔧💡
